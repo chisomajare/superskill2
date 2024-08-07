@@ -1,0 +1,32 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+body{
+    background-color: black;
+}
+.heading{
+    color: cadetblue;
+    font-size: 8rem;
+    
+}
+.tags{
+    color: darkorchid;
+    font-size: 20px;
+}
+
+.submit{
+    text-decoration:  red dotted;
+
+}
+/*adding borders to the section tag*/
+.wrap{
+    background-color: rgb(37, 32, 32);
+    margin: 1.5rem auto;
+    border-radius: 5rem;
+    border-style: double;
+    border-color: bisque;
+    
+}
+
